@@ -4,7 +4,7 @@ This is the traditional Hello World program, with a few upgrades. I wrote this t
 
 This program asks the user for their name and then tells them hello. We put it inside of main and only call main if the file is being run itself. This makes it so no other file will be able to run it. We also use string formatting to make it look pretty.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/YuIgtCpmcTw)
 
 # Development Environment
 
