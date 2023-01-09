@@ -15,5 +15,5 @@ This program asks the user for their name and then tells them hello. We put it i
 # Useful Websites
 
 * [VScode Download](https://code.visualstudio.com/download)
-* [Python Downlaod](https://www.python.org/downloads/)
+* [Python Download](https://www.python.org/downloads/)
 * [Git Download](https://git-scm.com/download/win)
